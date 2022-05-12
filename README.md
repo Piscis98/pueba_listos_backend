@@ -24,7 +24,7 @@ Luego de tener el proyecto abra la carpeta del proyecto en una terminal
 
 Lo puede hacer ejecutando:
 
-cd backend
+cd prueba_listos_backend
 
 Luego de estar en la carpeta ejecute el comando:
 
